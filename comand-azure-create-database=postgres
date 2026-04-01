@@ -1,0 +1,4 @@
+az postgres db create \
+--resource-group aro-rg \
+--name score \
+--server-name microsweeper-database
